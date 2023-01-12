@@ -1,6 +1,4 @@
-# Uygulama 12
+# İnternet Programcılığı Final Projesi
 
-`npm i` komutu uygulayarak node_modules klasörünü ekleyeblirsiniz.
-
-Firebase Üyelik Sistemi ve Storage Kullanımı,  Fotoğraf Ekleme
-
+Caner Değirmenci
+20211129038
